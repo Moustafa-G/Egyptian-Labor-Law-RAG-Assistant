@@ -1,0 +1,8 @@
+{
+  "embedding_model": "all-MiniLM-L6-v2",
+  "llm_model": "llama3.2:3b",
+  "collection_name": "labor_law",
+  "chunking_strategy": "article-boundary (regex: r'Article \\d{1,3}\\s*[:\u2013]')",
+  "num_chunks": 310,
+  "num_source_documents": 1
+}

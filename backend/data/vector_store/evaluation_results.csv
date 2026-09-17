@@ -1,0 +1,23 @@
+question,retrieved_sources,answer,correct
+How many days of paid annual leave is an employee entitled to in their first year?,"Article 124, Article 125, Article 131","According to Article 124, an employee is entitled to 15 days of paid annual leave in their first year of service.",TRUE
+How long is maternity leave and how many times can a woman take it?,"Article 54, Article 57, Article 55","According to Article 54, a female worker is entitled to maternity leave for four months, including the period before and after delivery, provided the post-delivery leave is not less than 45 days. Additionally, a female worker is entitled to this leave no more than three times during her employment.",TRUE
+What is the maximum length of the probation period?,"Article 90, Article 6, Article 124",The maximum length of the probation period is three months. (Article 90),TRUE
+Can an employer fire an employee while they are on maternity leave?,"Article 55, Article 54, Article 58","No, an employer is prohibited from dismissing a female worker or terminating her employment during maternity leave.
+
+(Article 55, labor_law_14_2025.pdf)",TRUE
+How many hours can a child under 15 be employed to train per day?,"Article 62, Article 65, Article 117","According to Article 62, a child under 15 can be trained for a maximum of 6 hours per day.",TRUE
+What is the minimum retirement age?,"Article 171, Article 28, Article 61","The minimum retirement age is 60 years.
+
+This answer is based on Article 171.",TRUE
+How much notice must be given before terminating an open-ended contract?,"Article 164, Article 156, Article 158","According to Article 156, at least three months' written notice must be given before terminating an open-ended contract.",TRUE
+What is the penalty for wage deductions exceeding the legal limit?,"Article 140, Article 142, Article 139","According to Article 140, if the total deduction exceeds five days' wages per month, the employer may not combine wage deduction under Article 139 with any other financial penalty.
+
+Additionally, Article 142 states that total deductions for all penalties in one month may not exceed five days' basic wage.
+
+It does not explicitly state the penalty for wage deductions exceeding the legal limit, but based on the context, it appears that the penalty is not explicitly stated, but rather the employer is prohibited from imposing such deductions.",TRUE
+Is a worker entitled to compensation if dismissed without a legitimate reason?,"Article 127, Article 165, Article 150","Yes, a worker is entitled to compensation if dismissed without a legitimate reason.
+
+According to Article 165, if the employer terminates an open-ended contract without a legitimate reason, the employee shall be entitled to compensation for damages, not less than two months' wages for each year of service.
+
+This provision explicitly states that the worker is entitled to compensation in cases where the dismissal is without a legitimate reason.",TRUE
+How many breastfeeding breaks is a working mother entitled to?,"Article 56, Article 57, Article 54","A female worker who is breastfeeding her child during the two years following delivery is entitled to two additional breastfeeding breaks, each lasting no less than half an hour. (Article 56)",TRUE
