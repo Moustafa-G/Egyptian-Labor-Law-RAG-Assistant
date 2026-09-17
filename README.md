@@ -211,8 +211,6 @@ Full detail (including generated answer text) is in `data/vector_store/evaluatio
 
 ![Chat question](screenshots/3.png)
 
-![Chat answer with sources](screenshots/4.png)
-
 ## Running Tests
 
 ```bash
